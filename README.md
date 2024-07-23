@@ -96,5 +96,5 @@ void loop() {
 ### https://www.tinkercad.com/things/gKbDbj4TwT7-epic-densor
 
 
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](6 servo motors.png)
 
